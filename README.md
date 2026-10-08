@@ -10,6 +10,7 @@ and the app saves all the file in ( Documents\PlayStationLauncher ) if u used th
 
 # Notes
 The rar version can run rpcs3 emulator the exe file don't
+
 You need to connect to the internet to use AUTO-INSTALL tool
 
 and if you delated the config.json file in ( Documents\PlayStationLauncher ) the app will not gonna work problay the app will automatically transfer you to the web page to download the emulator and you can change the path manually 
