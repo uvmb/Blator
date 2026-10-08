@@ -15,7 +15,9 @@ and if you delated the config.json file in ( Documents\PlayStationLauncher ) the
 
 
 
-
+# atation 
+this message will problay come to you just skip it and press keep :D 
+<img width="337" height="321" alt="image" src="https://github.com/user-attachments/assets/3db5e34a-8c0d-4f5e-9bbf-a0a91a2278c3" />
 
 # How to run 
 1- download the .exe file 
