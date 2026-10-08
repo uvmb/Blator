@@ -4,7 +4,8 @@ an app links 4 PlayStation Emulator Launchers in one page and it let you to choo
 and the app saves all the file in ( Documents\PlayStationLauncher ) if u used the AUTO-INSTALL tool u will find all the fils there        *THE APP AUTOMATICLY CHOOSE THE PATH*
 
 
-V
+<img width="855" height="681" alt="image" src="https://github.com/user-attachments/assets/10e1879e-c26a-4b71-aeec-22311a3a4067" />
+
 
 
 # Notes
