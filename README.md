@@ -1,7 +1,7 @@
 # Blator
 an app links 4 PlayStation Emulator Launchers in one page and it let you to choose the path and you can download the Emulator direct from the app 
 
-and the app saves all the file in ( Documents\PlayStationLauncher ) if u used the AUTO-INSTALL tool u will find all the fils there        *THE APP AUTOMATICLY CHOOSE THE PATH*
+and the app saves all the file in               ( Documents\PlayStationLauncher ) if u used the AUTO-INSTALL tool u will find all the fils there        *THE APP AUTOMATICLY CHOOSE THE PATH*
 
 
 <img width="855" height="681" alt="image" src="https://github.com/user-attachments/assets/10e1879e-c26a-4b71-aeec-22311a3a4067" />
