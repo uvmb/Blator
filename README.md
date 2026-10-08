@@ -22,10 +22,12 @@ this message will problay come to you just skip it and press keep :D
 <img width="337" height="321" alt="image" src="https://github.com/user-attachments/assets/3db5e34a-8c0d-4f5e-9bbf-a0a91a2278c3" />
 
 # How to run 
-1- download the .exe file 
+1- download the .rar file 
 
-2 launch the app
+2- unzip it
 
-3- choose the path for each emulator 
+3- launch the app
 
-4- enjoy
+4- choose the path for each emulator ( or download it from the app )
+
+5- enjoy
